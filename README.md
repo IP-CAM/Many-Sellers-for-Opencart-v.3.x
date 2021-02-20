@@ -1,6 +1,6 @@
-# Opencart-3-Cok-Satanlar
+# Opencart-3-Many-Sellers
 
-Opencart için çok satanlar sayfası dosyalarıdır, modül için ücretsiz destek verilmemektedir.
+They are the bestseller page files for Opencart, there is no free support for the module.
 
 
-http://siteadiniz.com/index.php?route=product/bestseller şeklinde link verebilirsiniz.
+You can give a link in the form of http://siteadiniz.com/index.php?route=product/bestseller. 
